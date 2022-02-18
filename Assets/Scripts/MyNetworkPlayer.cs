@@ -53,7 +53,6 @@ public class MyNetworkPlayer : NetworkBehaviour
 #endregion
 
 
-
 #region ClientLogic
 
     //To update the color of a player
